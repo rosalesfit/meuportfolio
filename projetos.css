@@ -19,13 +19,13 @@ button {
     border-radius: 25px;
     cursor: pointer;
     color: white;
-    background-color: #493737;
+    background-color: #116b0c;
     border: none;
     transition: ease-in-out 0.3s;
 }
 
 button:hover {
-    background-color: #a16c60;
+    background-color: #2cce3f;
 }
 
 .github-link {
